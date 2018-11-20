@@ -6,7 +6,7 @@
     <groupId>com.jsr</groupId>
     <artifactId>shop-backend-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>shop-backend-service</name>
     <description>Demo project for Spring Boot</description>
